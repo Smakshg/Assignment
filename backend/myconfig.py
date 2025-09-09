@@ -1,3 +1,4 @@
 import os
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "Add an open ai api key in this field"
+
 CHUNK_SIZE = 1000 
